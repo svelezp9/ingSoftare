@@ -11,7 +11,7 @@ public class Conexion {
     
     private final String base = "paradox";
     private final String user = "root";
-    private final String password = "RNPezj82"; 
+    private final String password = ""; 
     private final String url = "jdbc:mysql://localhost:3306/" + base;
     private Connection con = null;
     
